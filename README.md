@@ -3,21 +3,21 @@
 Welcome to my Oasis Internship repository! This repository contains the work I completed during my internship, where I performed three tasks related to machine learning and data analysis. 📈🔬
 
 ## Task 1: Iris Flower Classification 🌺
-Folder: `task-1`
+Folder: `Task-1`
 
 File: `iris-flower-classification.ipynb`
 
 In this task, I worked on the Iris flower dataset to classify different species of Iris flowers using various machine learning algorithms. 🌸🌼🌺
 
 ## Task 2: Email Spam Detection with Machine Learning 📧🕵️‍♀️
-Folder: `task-2`
+Folder: `Task-2`
 
 File: `email-spam-detection.ipynb`
 
 In this task, I built a machine learning model to detect email spam, contributing to a safer and more efficient email experience. 🚫📩
 
 ## Task 3: Sales Prediction using Python 💰📊
-Folder: `task-3`
+Folder: `Task-3`
 
 File: `sales-prediction.ipynb`
 
